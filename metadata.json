@@ -1,0 +1,6 @@
+{
+  "name": "Grade 2 Measurement & Number Line Learning Center",
+  "description": "Interactive math learning center for Grade 2 covering Centimeters & Meters, Measuring Tools, Estimation, Word Problems, and Subtraction on a Number Line.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
